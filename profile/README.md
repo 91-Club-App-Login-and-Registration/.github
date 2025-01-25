@@ -4,7 +4,9 @@ Welcome to the **91 Club Color Prediction Game**! Test your luck and intuition b
 
 Login & Register Link
 
-https://www.91appq.com/#/register?invitationCode=868143067390
+## [91 Club Login](https://www.91appq.com/#/register?invitationCode=868143067390)
+
+## [91 Club Register](https://www.91appq.com/#/register?invitationCode=868143067390)
 
 ## Features
 - **Simple Gameplay**: Choose your color and make a prediction.
